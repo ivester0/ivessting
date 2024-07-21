@@ -1,1 +1,20 @@
-# ivessting
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой веб-сайт</title>
+    <!-- Подключаем файл стилей -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Мой веб-сайт</h1>
+
+    <p>Ниже будет отображаться встраиваемый фрейм на весь экран:</p>
+
+    <!-- Здесь мы добавляем iframe -->
+    <iframe src="https://adars-team-3.adalo.com/investing?_gl=1*17n971m*_gcl_aw*R0NMLjE3MjE0NzUzNzUuRUFJYUlRb2JDaE1JekpuWnZzTzFod01WVFVkQkFoMEVCdzNTRUFBWUFTQUFFZ0tUYV9EX0J3RQ..*_gcl_au*MTEzMDgwOTU0MC4xNzIxNDczMTMy*_ga*NjIxODEzOTE1LjE3MjE0NzMxMzM.*_ga_SWT45DV35L*MTcyMTQ3MzMyOC4xLjEuMTcyMTQ3ODA2OS41OS4wLjA." allowfullscreen></iframe>
+
+    <p>Другой контент вашего веб-сайта...</p>
+</body>
+</html>
